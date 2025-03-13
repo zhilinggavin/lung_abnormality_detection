@@ -16,6 +16,6 @@ seg_model.targets # ['Left Clavicle', 'Right Clavicle', 'Left Scapula', 'Right S
                   #  'Heart', 'Aorta', 'Facies Diaphragmatica', 'Mediastinum',  'Weasand', 'Spine']
 ```
 
-![Segmentation PSPNet](torchxrayvision_folder/docs/segmentation-pspnet.png)
+![Segmentation PSPNet](image/segmentation-pspnet.png)
 
 ## More details To Be Added Soon
