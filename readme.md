@@ -1,4 +1,4 @@
-# Automatic Lung Abnormalities Deetction
+# Automatic Lung Abnormalities Detection
 ## Introduction
 Automatically detects the counterfactual regions indicating lung abnormalities and highlights them using bounding boxes.
 
@@ -16,6 +16,6 @@ seg_model.targets # ['Left Clavicle', 'Right Clavicle', 'Left Scapula', 'Right S
                   #  'Heart', 'Aorta', 'Facies Diaphragmatica', 'Mediastinum',  'Weasand', 'Spine']
 ```
 
-![](torchxrayvision_folder/docs/segmentation-pspnet.png)
+![Segmentation PSPNet](torchxrayvision_folder/docs/segmentation-pspnet.png)
 
 ## More details To Be Added Soon
