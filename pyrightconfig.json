@@ -3,12 +3,11 @@
       "**/*.png",
       "**/*.pth",
       "**/*.pkl",
-      "./lung-segmentation-master",
       "**/*.pt",
       "**/data/**",
       "**/*.zip",
       "**/*.gz",
       "**/__pycache__",
-      "torchxrayvision_folder",
+      // "torchxrayvision_folder",
     ]
   }
